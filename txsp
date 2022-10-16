@@ -1,5 +1,5 @@
 [rewrite_local]
-腾讯 = ^https:\/\/i\.video|http:\/\/iacc\.qq\.com\/$ url script-response-body
+腾讯 = ^(https:\/\/i\.video|http:\/\/iacc)\.qq\.com\/ url script-response-body
 https://raw.githubusercontent.com/Hpxwd/Surge/main/Js/txvideo.is
 
 
