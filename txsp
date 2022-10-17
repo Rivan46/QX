@@ -1,6 +1,0 @@
-[rewrite_local]
-^(https:\/\/i\.video|http:\/\/iacc)\.qq\.com\/ url script-response-body https://raw.githubusercontent.com/Hpxwd/Surge/main/Js/txvideo.is
-
-
-[MITM]
-hostname = i.video.qq.com, iacc.qq.com
