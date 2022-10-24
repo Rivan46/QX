@@ -1,7 +1,7 @@
 #美颜相机解锁VIP
 
 [rewrite_local]
-^https://.*.mei(yan|tu).com\/.* url script-response-body https://raw.githubusercontent.com/Rivan46/QX/main/meiyanxiangji
+^https://.*.mei(yan|tu).com\/.* url script-response-body https://raw.githubusercontent.com/Rivan46/QX/main/meiyanxiangji.js
 
 [mitm] 
 hostname = *.meiyan.com *.meitu.com
