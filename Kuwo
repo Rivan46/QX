@@ -1,0 +1,7 @@
+#Rivan
+#酷我音乐解锁SVIP会员
+
+hostname = *.kuwo.cn, *.lrts.me
+
+#酷我解锁会员
+^https?:\/\/.*\.(kuwo|lrts)\.(cn|me)\/(a\.p|music\.pay|(vip\/(v2|enc)\/(theme|user\/vip))|(EcomResource|(Mobile)?Ad)Serv(er|ice)).* url script-response-body https://raw.githubusercontent.com/Rivan46/Script/main/kuwomusic.js
