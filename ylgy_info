@@ -14,8 +14,8 @@ hostname = cat-match-static.easygame2021.com, cat-match.easygame2021.com
 var body = $response.body;
 var obj = JSON.parse(body);
 
-obj.data.win_count = 545945848978948454156187481254584879847894894548745468545524874147845487848;
-obj.data.topic_count = 4157454684765448945645484524987456115445884854564;
+obj.data.win_count = 99999;
+obj.data.topic_count = 99999;
 
 
 
