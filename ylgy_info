@@ -1,4 +1,9 @@
 /*****************
+
+#羊了个羊刷朋友圈排行榜
+#更新时间2022-10-30
+
+
 [rewrite_local]
 ^https:\/\/cat\-match\.easygame2021\.com\/sheep\/v1\/game\/personal\_info\? url script-response-body https://raw.githubusercontent.com/Rivan46/QX/main/ylgy_info
 
