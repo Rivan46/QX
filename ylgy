@@ -1,4 +1,8 @@
 /****************
+#羊了个羊简化通关难度
+#更新时间2022-10-30
+
+
 [rewrite_local]
 ^https:\/\/cat\-match\-static\.easygame2021\.com\/maps.*? url script-response-body https://raw.githubusercontent.com/Rivan46/QX/main/ylgy
 
