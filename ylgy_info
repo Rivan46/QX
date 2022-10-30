@@ -1,6 +1,6 @@
 /*****************
 [rewrite_local]
-^https:\/\/cat\-match\.easygame2021\.com\/sheep\/v1\/game\/personal\_info\? url script-response-body https://raw.githubusercontent.com/1829018/quantuanlt-x-root/main/Yang_info
+^https:\/\/cat\-match\.easygame2021\.com\/sheep\/v1\/game\/personal\_info\? url script-response-body https://raw.githubusercontent.com/Rivan46/QX/main/ylgy_info
 
 [mitm]
 hostname = cat-match-static.easygame2021.com, cat-match.easygame2021.com
