@@ -1,0 +1,4 @@
+#趣听屏蔽割韭菜弹窗
+^https?:\/\/api\.bspapp\.com\/client url reject
+
+hostname = api.bspapp.com
